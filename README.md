@@ -1,5 +1,5 @@
 # DeliveryTracker
-Organize all your pending deliveries in one place! Also sorted by days left until arrival
+Organize all your pending deliveries in one place! Also sorted by days left until arrival.
 
 Requirments:
 All you need is python to run this program. you can download it here:
