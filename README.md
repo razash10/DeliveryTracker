@@ -1,2 +1,9 @@
 # DeliveryTracker
 Organize all your pending deliveries in one place! Also sorted by days left until arrival
+
+Requirments:
+All you need is python to run this program. you can download it here:
+https://www.python.org/downloads/
+After installing python, click on "start.py" and follow the instructions as described.
+
+Enjoy!
