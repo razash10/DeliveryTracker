@@ -9,5 +9,3 @@ https://www.python.org/downloads/
 After installing python, click on "start.py" and follow the instructions as described.
 
 I also attached a JSON script for example of usage.
-
-Enjoy!
